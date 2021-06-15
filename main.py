@@ -2,8 +2,8 @@ import telebot
 import time
 import schedule
 
-USER_ID = 368162759
-API_TOKEN = '1808720389:AAEPPfTNd6cxnzQ2WI0jb6mDuiItXm8hzuw'
+USER_ID = id
+API_TOKEN = 'token'
 
 bot = telebot.TeleBot(API_TOKEN)
 
