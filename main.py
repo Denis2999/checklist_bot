@@ -4,8 +4,8 @@ import schedule
 from telebot import types
 from checklists import MORNING_CHECKLIST, EVENING_CHECKLIST_NR_1, EVENING_CHECKLIST_NR_2
 
-USER_ID = 368162759
-API_TOKEN = '1808720389:AAEPPfTNd6cxnzQ2WI0jb6mDuiItXm8hzuw'
+USER_ID =
+API_TOKEN = 'w'
 
 bot = telebot.TeleBot(API_TOKEN)
 
