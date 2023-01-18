@@ -2,6 +2,4 @@ Checklist bot which sent what workers should do at the start and the end of the 
 
 Two times a day, the bot sends messages. It's a reminder that workers didn't forget to wash the workplace, take out the trash, etc. After taping "Done" the text turns into a ~~strikethrough~~ and it could be visible, who did it. It helps to maintain discipline and keep the workplace clean at work and saves paper.
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://raw.githubusercontent.com/Denis2999/checklist_bot/master/text_mssge.png)" />
-</p>
+![Example image](http://some_place.com/image.png](https://raw.githubusercontent.com/Denis2999/checklist_bot/master/text_mssge.png)
